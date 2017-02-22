@@ -1,0 +1,15 @@
+{
+  "name": "quotes",
+  "version": "1.0.0",
+  "description": "sky is the limit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PanChrono",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.4.2",
+    "webpack": "^2.2.1"
+  }
+}
